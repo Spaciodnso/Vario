@@ -1,0 +1,7 @@
+{
+  "name": "VarioSpaciodnso",
+  "description": "A sophisticated paragliding variometer web application designed for iPhones, utilizing a full suite of available sensors for accurate flight data, including vertical speed, altitude, ground speed, and audio feedback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
